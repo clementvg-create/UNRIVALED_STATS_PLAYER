@@ -8,6 +8,8 @@ Le dépôt GitHub est organisé de la manière suivante :
 	- STATS_2026.xlsx --> Fichier Excel de la saison 2026 des stats (basiques + avancées)
 	- Etc...
 
+Saisons disponibles : 2025-2026 (2026 en cours - mise à jour : 2 fois par semaine)
+
 # Utilisation
 
 Deux utilisations sont possibles :
@@ -27,6 +29,8 @@ The GitHub repository is organized as follows:
 	- STATS_2025.xlsx --> Excel file for the 2025 season of stats (basic + advanced)
 	- STATS_2026.xlsx --> Excel file for the 2026 season of stats (basic + advanced)
 	- Etc...
+
+Available seasons: 2025-2026 (2026 ongoing - updated twice a week)
 
 # Usage
 
